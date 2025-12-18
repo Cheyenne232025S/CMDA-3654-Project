@@ -7,3 +7,4 @@ The two main objetives of this project was to indetify the main SAT score predic
 To view the entire complete project download data from data folder then open and run the notebook named project 2. 
 This project was an iterative process. 
 
+Methods used include exploratory data analysis, regression modeling, and clustering techniques implemented in Python.
